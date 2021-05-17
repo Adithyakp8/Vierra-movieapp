@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364253172537",
+    "project_id": "viera-2aa74",
+    "storage_bucket": "viera-2aa74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364253172537:android:e3d5f3ce946958394c4ee8",
+        "android_client_info": {
+          "package_name": "com.adithya.vierra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364253172537-242d6q9g1c1jmqsp5a53veh716fabn6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy09rxVgsfpg2BiGAUmXALNG7ODc9xawU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364253172537-242d6q9g1c1jmqsp5a53veh716fabn6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
